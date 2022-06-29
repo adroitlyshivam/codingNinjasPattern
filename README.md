@@ -5,7 +5,6 @@
      1
       
     232
-   
    34543
   
   4567654
@@ -15,6 +14,7 @@
  code*****
  
  #include<iostream>
+ 
  using namespace std;
  int main(){
     int n;
